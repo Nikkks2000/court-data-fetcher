@@ -1,0 +1,7 @@
+Flask
+requests
+beautifulsoup4
+python-dotenv
+# Add other scraping libraries if you use them, e.g.:
+# selenium
+# playwright
